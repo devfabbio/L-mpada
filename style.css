@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#turnOn, #TurnOff{
+    width: 50px;
+}
+#lampReset{
+    width: 75px;
+}
